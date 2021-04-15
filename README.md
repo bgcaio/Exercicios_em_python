@@ -10,4 +10,4 @@ Caio Bonela Gonçalves
 
 ### 2. (PEC00025) INTRODUÇÃO À TEORIA DE VIBRAÇÕES
 
-###  [T1 - vibração de um celular sobre uma régua metálica](https://nbviewer.jupyter.org/github/bgcaio/Exercicios_em_python/blob/main/%28PEC00025%29-inntrodu%C3%A7ao_a_teoria_de_vibra%C3%A7%C3%B5es/T1/T1.ipynb)
+###  [T1 - vibração de um celular sobre uma régua metálica](https://nbviewer.jupyter.org/github/bgcaio/Exercicios_em_python/blob/main/%28PEC00025%29-introdu%C3%A7ao_a_teoria_de_vibra%C3%A7%C3%B5es/T1/T1.ipynb)
